@@ -1,5 +1,6 @@
-Driver for DHT22/AM2302 Temperature and humidity sensors on 
-Raspberry Pi.
+# DHT: loldht and dht library
+
+Driver for DHT22/AM2302 Temperature and humidity sensors on Raspberry Pi.
 Based on dht11.c: http://ubuntuone.com/6mT9cTREz90BUfvQD1AGNy (license unknown).
 Requires wiringPi library.
 
