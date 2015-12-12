@@ -16,3 +16,7 @@ License: Public domain. Do what you want. No warranties.
  --enable-development Compile with -g -O0 -Wall. Applies disable-secure automatically
 
 autogen.sh: Autoconf boostrap. Development use only.
+
+## Additional stuff by Tobias Ebert
+* Shared library support: Create shared library named libdht.so by calling _compile_shared_library.sh
+* Using library in C#/.NET Applications: Call _compile_mono.sh and _run_mono.sh
